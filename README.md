@@ -5,7 +5,6 @@ Quiz sobre programação com JavaScript.
 ![](/img/tela-1.png)
 ![](/img/tela-2.png)
 ![](/img/tela-3.png)
-![](/img/tela-4.png)
 
 ## Ambiente de Desenvolvimento
 
